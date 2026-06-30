@@ -1,0 +1,3 @@
+representation,task,accuracy,macro_f1,n_classes,chance,normalized_speaker_leakage
+Wav2Vec2 acoustic embedding,language_recognition,0.84,0.8384,5,0.2,
+Wav2Vec2 acoustic embedding,speaker_leakage,0.97,0.9613,50,0.02,0.9694
